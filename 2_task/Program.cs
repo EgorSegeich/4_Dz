@@ -9,6 +9,7 @@
 9012 -> 3
 */
 
+
 Console.WriteLine("введите число");
 int N = Convert.ToInt32(Console.ReadLine());
 
