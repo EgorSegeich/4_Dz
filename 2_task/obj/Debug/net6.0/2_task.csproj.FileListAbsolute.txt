@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\obj\Debug\net6.0\2_task.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\obj\Debug\net6.0\2_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\obj\Debug\net6.0\2_task.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\obj\Debug\net6.0\2_task.AssemblyInfo.cs
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\obj\Debug\net6.0\2_task.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\bin\Debug\net6.0\2_task.exe
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\bin\Debug\net6.0\2_task.deps.json
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\bin\Debug\net6.0\2_task.runtimeconfig.json
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\bin\Debug\net6.0\2_task.dll
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\bin\Debug\net6.0\2_task.pdb
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\obj\Debug\net6.0\2_task.dll
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\obj\Debug\net6.0\refint\2_task.dll
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\obj\Debug\net6.0\2_task.pdb
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\obj\Debug\net6.0\2_task.genruntimeconfig.cache
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\4_Dz\2_task\obj\Debug\net6.0\ref\2_task.dll
