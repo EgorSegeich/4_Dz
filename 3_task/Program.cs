@@ -57,11 +57,14 @@ while (u < array.Length)
     Console.WriteLine("proiz =" + proiz);
     */
 
-    if(proiz % sum == 0)
+    if(proiz>0)
     {
-    array[u] = N;
-    Console.Write(array[u]+ ", ");
-    u++;  
+        if(proiz % sum == 0)
+        {
+        array[u] = N;
+        Console.Write(array[u]+ ", ");
+        u++;
+        }  
     }
 
 }
