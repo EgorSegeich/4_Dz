@@ -7,7 +7,6 @@
 */
 
 
-
 int LengthOfNumber(int val)
 {
     int count = 0;
@@ -52,10 +51,7 @@ while (u < array.Length)
         proiz = proiz * numbers[j];
         j++;
     }
-    /*Console.WriteLine("N = " + N);
-    Console.WriteLine("sum =" + sum);
-    Console.WriteLine("proiz =" + proiz);
-    */
+
 
     if(proiz>0)
     {
@@ -66,29 +62,5 @@ while (u < array.Length)
         u++;
         }  
     }
-
 }
 Console.Write("]");
-
-
-
-
-///////////////
-
-/*
-int N = 0;
-int i = 0;
-int [] array = new int[10];
-
-while (i < array.Length)
-{   
-    N = new Random().Next(1, 1000);
-
-    if (N > 900)
-    {
-        array[i] = N;
-        Console.WriteLine(array[i]);
-        i++;
-    }  
-}
-*/
